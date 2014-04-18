@@ -1,0 +1,20 @@
+{{#days}}
+<table>
+  <thead>
+    <tr>
+      <td class="day" colspan="4"><h2>{{day}}</h2></td>
+    </tr>
+  </thead>
+  <tbody>
+  {{#djs}}
+    <tr{{#playing}} class="playing"{{/playing}}>
+      <td>{{name}}</td>
+      <td class="time">{{startString}} - {{endString}}</td>
+      <td>{{floorString}}</td>
+    </tr>
+  {{/djs}}
+  </tbody>
+</table>
+
+<hr />
+{{/days}}

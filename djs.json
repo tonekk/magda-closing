@@ -1,0 +1,548 @@
+[
+  {
+      "name": "Florian Kern",
+      "start": "1397862000000",
+      "end": "1397867400000",
+      "floor": "M"
+  },
+  {
+      "name": "Pierre Deutschmann",
+      "start": "1397867400000",
+      "end": "1397874600000",
+      "floor": "M"
+  },
+  {
+      "name": "Richard Raus",
+      "start": "1397869200000",
+      "end": "1397876400000",
+      "floor": "H"
+  },
+  {
+      "name": "David K & Tom B",
+      "start": "1397869200000",
+      "end": "1397876400000",
+      "floor": "L"
+  },
+  {
+      "name": "Italoboyz",
+      "start": "1397872800000",
+      "end": "1397887200000",
+      "floor": "J"
+  },
+  {
+      "name": "Dürerstuben",
+      "start": "1397872800000",
+      "end": "1397872800000",
+      "floor": "J"
+  },
+  {
+      "name": "Muerte Sanchez & Robert Schtuttgar",
+      "start": "1397872800000",
+      "end": "1397878200000",
+      "floor": "K"
+  },
+  {
+      "name": "Blake Baxter",
+      "start": "1397874600000",
+      "end": "1397881800000",
+      "floor": "M"
+  },
+  {
+      "name": "Arado",
+      "start": "1397876400000",
+      "end": "1397883600000",
+      "floor": "L"
+  },
+  {
+      "name": "Traumtänzer",
+      "start": "1397876400000",
+      "end": "1397894400000",
+      "floor": "H"
+  },
+  {
+      "name": "Goldmariechen ",
+      "start": "1397878200000",
+      "end": "1397883600000",
+      "floor": "K"
+  },
+  {
+      "name": "Stereo Jack",
+      "start": "1397881800000",
+      "end": "1397887200000",
+      "floor": "M"
+  },
+  {
+      "name": "Userkiller & Beavo De Niro",
+      "start": "1397883600000",
+      "end": "1397890800000",
+      "floor": "K"
+  },
+  {
+      "name": "Toni Haupt",
+      "start": "1397883600000",
+      "end": "1397890800000",
+      "floor": "L"
+  },
+  {
+      "name": "Dorian Paic ",
+      "start": "1397887200000",
+      "end": "1397894400000",
+      "floor": "J"
+  },
+  {
+      "name": "Mike Wall",
+      "start": "1397887200000",
+      "end": "1397892600000",
+      "floor": "M"
+  },
+  {
+      "name": "IchDu&Harry",
+      "start": "1397890800000",
+      "end": "1397898000000",
+      "floor": "L"
+  },
+  {
+      "name": "Chris Friend",
+      "start": "1397890800000",
+      "end": "1397912400000",
+      "floor": "K"
+  },
+  {
+      "name": "Patrick Arbez",
+      "start": "1397892600000",
+      "end": "1397898000000",
+      "floor": "M"
+  },
+  {
+      "name": "Jens Bond",
+      "start": "1397894400000",
+      "end": "1397901600000",
+      "floor": "J"
+  },
+  {
+      "name": "De Kai",
+      "start": "1397898000000",
+      "end": "1397923200000",
+      "floor": "M"
+  },
+  {
+      "name": "Salvo Salvatore",
+      "start": "1397898000000",
+      "end": "1397905200000",
+      "floor": "L"
+  },
+  {
+      "name": "Turmspringer",
+      "start": "1397901600000",
+      "end": "1397912400000",
+      "floor": "J"
+  },
+  {
+      "name": "Christine Lau",
+      "start": "1397905200000",
+      "end": "1397912400000",
+      "floor": "L"
+  },
+  {
+      "name": "Guys & Beers",
+      "start": "1397912400000",
+      "end": "1397919600000",
+      "floor": "J"
+  },
+  {
+      "name": "John Lemon",
+      "start": "1397912400000",
+      "end": "1397919600000",
+      "floor": "L"
+  },
+  {
+      "name": "Kaiserdisco",
+      "start": "1397919600000",
+      "end": "1397926800000",
+      "floor": "J"
+  },
+  {
+      "name": "Tonband",
+      "start": "1397926800000",
+      "end": "1397934000000",
+      "floor": "J"
+  },
+  {
+      "name": "Maree",
+      "start": "1397934000000",
+      "end": "1397944800000",
+      "floor": "J"
+  },
+  {
+      "name": "Patrick Garcia",
+      "start": "1397944800000",
+      "end": "1397952000000",
+      "floor": "L"
+  },
+  {
+      "name": "Dennis Beutler",
+      "start": "1397948400000",
+      "end": "1397955600000",
+      "floor": "M"
+  },
+  {
+      "name": "Daniel Archut",
+      "start": "1397952000000",
+      "end": "1397959200000",
+      "floor": "L"
+  },
+  {
+      "name": "Fabiano",
+      "start": "1397955600000",
+      "end": "1397962800000",
+      "floor": "J"
+  },
+  {
+      "name": "Monogahm",
+      "start": "1397955600000",
+      "end": "1397961000000",
+      "floor": "H"
+  },
+  {
+      "name": "Alfred Heinrichs",
+      "start": "1397955600000",
+      "end": "1397961000000",
+      "floor": "M"
+  },
+  {
+      "name": "Sascha Aviar",
+      "start": "1397959200000",
+      "end": "1397966400000",
+      "floor": "L"
+  },
+  {
+      "name": "Funkstörung",
+      "start": "1397959200000",
+      "end": "1397964600000",
+      "floor": "K"
+  },
+  {
+      "name": "Sören Linke",
+      "start": "1397961000000",
+      "end": "1397966400000",
+      "floor": "H"
+  },
+  {
+      "name": "Hanne & Lore",
+      "start": "1397961000000",
+      "end": "1397968200000",
+      "floor": "M"
+  },
+  {
+      "name": "Holgistar",
+      "start": "1397962800000",
+      "end": "1397970000000",
+      "floor": "J"
+  },
+  {
+      "name": "Dachgeschoss",
+      "start": "1397964600000",
+      "end": "1397970000000",
+      "floor": "K"
+  },
+  {
+      "name": "Sebastian Bosch",
+      "start": "1397966400000",
+      "end": "1397973600000",
+      "floor": "L"
+  },
+  {
+      "name": "Diaz Soto",
+      "start": "1397966400000",
+      "end": "1397984400000",
+      "floor": "H"
+  },
+  {
+      "name": "George Morel",
+      "start": "1397968200000",
+      "end": "1397975400000",
+      "floor": "M"
+  },
+  {
+      "name": "Francesco Arancio",
+      "start": "1397970000000",
+      "end": "1397975400000",
+      "floor": "K"
+  },
+  {
+      "name": "Asem Shama",
+      "start": "1397970000000",
+      "end": "1397977200000",
+      "floor": "J"
+  },
+  {
+      "name": "Helge Baumberg",
+      "start": "1397973600000",
+      "end": "1397980800000",
+      "floor": "L"
+  },
+  {
+      "name": "Drauf & Dran",
+      "start": "1397975400000",
+      "end": "1397982600000",
+      "floor": "M"
+  },
+  {
+      "name": "Enforcer",
+      "start": "1397975400000",
+      "end": "1397980800000",
+      "floor": "K"
+  },
+  {
+      "name": "Jovan Feuerstacke",
+      "start": "1397977200000",
+      "end": "1397984400000",
+      "floor": "J"
+  },
+  {
+      "name": "Fräulein Traumberg",
+      "start": "1397980800000",
+      "end": "1397984400000",
+      "floor": "L"
+  },
+  {
+      "name": "Martin Books",
+      "start": "1397982600000",
+      "end": "1397989800000",
+      "floor": "M"
+  },
+  {
+      "name": "Fred Wendekind",
+      "start": "1397984400000",
+      "end": "1397995200000",
+      "floor": "J"
+  },
+  {
+      "name": "Pummelboys",
+      "start": "1397984400000",
+      "end": "1397991600000",
+      "floor": "L"
+  },
+  {
+      "name": "Sebastian Kremer",
+      "start": "1397989800000",
+      "end": "1398009600000",
+      "floor": "M"
+  },
+  {
+      "name": "Derek Haze",
+      "start": "1397991600000",
+      "end": "1397998800000",
+      "floor": "L"
+  },
+  {
+      "name": "The Catfather",
+      "start": "1397995200000",
+      "end": "1398006000000",
+      "floor": "T"
+  },
+  {
+      "name": "Animal Swing Kids",
+      "start": "1397995200000",
+      "end": "1398002400000",
+      "floor": "J"
+  },
+  {
+      "name": "Thomas Lizzara",
+      "start": "1398002400000",
+      "end": "1398009600000",
+      "floor": "J"
+  },
+  {
+      "name": "Matchy & Bott ",
+      "start": "1398006000000",
+      "end": "1398016800000",
+      "floor": "T"
+  },
+  {
+      "name": "Kaizer Souzai",
+      "start": "1398009600000",
+      "end": "1398020400000",
+      "floor": "J"
+  },
+  {
+      "name": "Lidman & Kowalski",
+      "start": "1398016800000",
+      "end": "1398024000000",
+      "floor": "T"
+  },
+  {
+      "name": "De Kai & Yetti Meißner",
+      "start": "1398020400000",
+      "end": "1398038400000",
+      "floor": "J"
+  },
+  {
+      "name": "Pascale Voltaire",
+      "start": "1398031200000",
+      "end": "1398038400000",
+      "floor": "L"
+  },
+  {
+      "name": "Axel Bartsch",
+      "start": "1398034800000",
+      "end": "1398042000000",
+      "floor": "M"
+  },
+  {
+      "name": "Daniel Dreier",
+      "start": "1398038400000",
+      "end": "1398045600000",
+      "floor": "L"
+  },
+  {
+      "name": "Martinez",
+      "start": "1398042000000",
+      "end": "1398047400000",
+      "floor": "M"
+  },
+  {
+      "name": "Megatief",
+      "start": "1398042000000",
+      "end": "1398047400000",
+      "floor": "H"
+  },
+  {
+      "name": "Tom Nowa",
+      "start": "1398045600000",
+      "end": "1398052800000",
+      "floor": "J"
+  },
+  {
+      "name": "Funksignal",
+      "start": "1398045600000",
+      "end": "1398051000000",
+      "floor": "K"
+  },
+  {
+      "name": "Funkenstrøm",
+      "start": "1398045600000",
+      "end": "1398049200000",
+      "floor": "L"
+  },
+  {
+      "name": "Manuel Lauro",
+      "start": "1398047400000",
+      "end": "1398052800000",
+      "floor": "H"
+  },
+  {
+      "name": "Oxia",
+      "start": "1398047400000",
+      "end": "1398054600000",
+      "floor": "M"
+  },
+  {
+      "name": "Gitte Verführt",
+      "start": "1398049200000",
+      "end": "1398056400000",
+      "floor": "L"
+  },
+  {
+      "name": "Bernhardt Kowalski",
+      "start": "1398051000000",
+      "end": "1398056400000",
+      "floor": "K"
+  },
+  {
+      "name": "Seduction(s) Dj-Set",
+      "start": "1398052800000",
+      "end": "1398074400000",
+      "floor": "H"
+  },
+  {
+      "name": "Sven Jozwiak",
+      "start": "1398052800000",
+      "end": "1398060000000",
+      "floor": "J"
+  },
+  {
+      "name": "2000andOne",
+      "start": "1398054600000",
+      "end": "1398061800000",
+      "floor": "M"
+  },
+  {
+      "name": "Eric Kanzler",
+      "start": "1398056400000",
+      "end": "1398061800000",
+      "floor": "K"
+  },
+  {
+      "name": "Georg Wedel",
+      "start": "1398056400000",
+      "end": "1398063600000",
+      "floor": "L"
+  },
+  {
+      "name": "Tom Flynn ",
+      "start": "1398060000000",
+      "end": "1398067200000",
+      "floor": "J"
+  },
+  {
+      "name": "Match Hoffman",
+      "start": "1398061800000",
+      "end": "1398074400000",
+      "floor": "K"
+  },
+  {
+      "name": "Bart Skils",
+      "start": "1398061800000",
+      "end": "1398067200000",
+      "floor": "M"
+  },
+  {
+      "name": "Ralph Ballschuh",
+      "start": "1398063600000",
+      "end": "1398070800000",
+      "floor": "L"
+  },
+  {
+      "name": "Empro",
+      "start": "1398067200000",
+      "end": "1398074400000",
+      "floor": "M"
+  },
+  {
+      "name": "Sokool",
+      "start": "1398067200000",
+      "end": "1398074400000",
+      "floor": "J"
+  },
+  {
+      "name": "Markus Klee",
+      "start": "1398070800000",
+      "end": "1398074400000",
+      "floor": "L"
+  },
+  {
+      "name": "Danny Faber",
+      "start": "1398074400000",
+      "end": "1398081600000",
+      "floor": "J"
+  },
+  {
+      "name": "Andree Wischnewski",
+      "start": "1398074400000",
+      "end": "1398088800000",
+      "floor": "L"
+  },
+  {
+      "name": "René Bourgeois",
+      "start": "1398074400000",
+      "end": "1398081600000",
+      "floor": "M"
+  },
+  {
+      "name": "Lucio",
+      "start": "1398081600000",
+      "end": "1398096000000",
+      "floor": "M"
+  }
+]

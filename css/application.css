@@ -1,0 +1,102 @@
+.grey {
+  background-color: #eee; }
+
+html, body {
+  width: 100%;
+  height: 100%; }
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans"; }
+
+hr {
+  border-color: #ccc; }
+
+#main {
+  min-height: 100%;
+  padding-bottom: 30px;
+  position: relative; }
+
+#footer {
+  position: absolute;
+  bottom: 10px;
+  font-size: 75%;
+  text-align: center;
+  height: 15px;
+  width: 100%; }
+
+div#main-inner {
+  margin: 0 auto;
+  margin-top: 60px;
+  width: 420px;
+  background-color: #eee;
+  padding: 10px 20px 20px 20px;
+  border-radius: 4px;
+  border: 1px solid #e5e5e5; }
+
+/* NOTE: Input looks weird in my chrome, this is a hotfix */
+.grabber-input {
+  margin-top: 1px;
+  margin-bottom: -1px; }
+
+.input-group {
+  width: 100%; }
+
+.link-list-wrapper {
+  margin-top: 30px; }
+  .link-list-wrapper li {
+    cursor: pointer; }
+  .link-list-wrapper .loading-wrapper {
+    width: 32px;
+    margin: 0 auto; }
+  .link-list-wrapper .iframe-wrapper {
+    width: 320px;
+    margin: 0 auto;
+    display: none; }
+
+.grabber-wrapper {
+  margin-top: 20px;
+  border: 2px solid #e5e5e5;
+  border-radius: 4px;
+  padding: 20px; }
+  .grabber-wrapper button.save {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    width: 100%; }
+  .grabber-wrapper span.is-valid {
+    border-bottom-left-radius: 0; }
+  .grabber-wrapper input.form-control {
+    border-bottom-right-radius: 0; }
+
+.login-wrapper {
+  margin-top: 10px; }
+  .login-wrapper button.login {
+    margin-top: 10px; }
+
+img.logo {
+  border-radius: 50%;
+  border: 3px solid #e5e5e5;
+  opacity: 0.7; }
+
+.logo-wrapper {
+  position: fixed;
+  padding: 20px;
+  border-radius: 100px 15px;
+  background-color: #eee;
+  border: 1px solid #e5e5e5; }
+
+.logo-wrapper#sc {
+  top: 40px;
+  left: 20px; }
+
+.logo-wrapper#yt {
+  top: 40px;
+  right: 20px; }
+
+@media (max-width: 920px) {
+  .logo-wrapper {
+    display: none; } }
+@media (max-width: 420px) {
+  #main-inner {
+    width: 100% !important; } }
