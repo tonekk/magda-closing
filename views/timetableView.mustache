@@ -8,8 +8,8 @@
   <tbody>
   {{#djs}}
     <tr{{#playing}} class="playing"{{/playing}}>
+      <td class="time"><strong>{{startString}}</strong><br>{{endString}}</td>
       <td>{{name}}</td>
-      <td class="time">{{startString}} - {{endString}}</td>
       <td>{{floorString}}</td>
     </tr>
   {{/djs}}

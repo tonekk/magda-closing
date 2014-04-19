@@ -25,7 +25,7 @@ Dj = can.Model({
   },
 
   getMoment: function(input) {
-    return moment.unix(parseInt(input) / 1000);
+    return moment.unix(parseInt(input) / 1000).subtract('hours', 2);
   },
 
   getFloorString: function(abr) {
@@ -36,7 +36,7 @@ Dj = can.Model({
 MagdaClosing.floors = {
   'M' :'Main',
   'L' : 'Lena',
-  'J' : 'Jaegerlein',
+  'J' : 'Jaegerline',
   'K' : 'Keller',
   'H' : 'Versteckt',
   'T' : 'Terrasse',
